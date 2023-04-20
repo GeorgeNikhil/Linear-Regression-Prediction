@@ -2,7 +2,7 @@
 
 ## Created by Sam Nijin S © 2023
 
-### Social Media -----> <a href='www.github.com/SamNijin'>Github</a> | <a href='www.linkedin.com/in/sam-nijin'>LinkedIn</a>
+### Social Media -----> <a href='www.github.com/SamNijin'>Github</a> | <a href='www.linkedin.com/in/sam-nijin'>LinkedIn </a>
 
 ## Libraries required to run this project
 
