@@ -1,8 +1,7 @@
 <center><h1 style='font-size:50px;font-weight:800;'>Prediction using Supervised ML</h1></center>
 
-## Created by Sam Nijin S © 2023
+## Created by Riya Jain 2023
 
-### Social Media -----> [Sam Nijin's Github](https://github.com/SamNijin) | [Sam Nijin's LinkedIn](https://linkedin.com/in/sam-nijin)
 
 ## Libraries required to run this project
 
